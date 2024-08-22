@@ -2,10 +2,10 @@
 
 Hello All, This is __Lumitec Technologies GmbH__ 👋
 
-| <img src="Images/Lumitec-Logo.png" alt="Lumitec Technologies"> |
+| <img src="Images/Lumitec-Logo.png" alt="Lumitec Technologies" width="48"> |
 | ----------- |
 
-A Tech Services Provider delivering __cloud solutions, DevOps practices, container management, site reliability engineering, and service delivery leadership__.
+A __Tech Services Provider__ delivering __Cloud Solutions, DevOps Practices, Container Management, Site Reliability Engineering (SRE), and Service Delivery Leadership__.
 
 ![](https://komarev.com/ghpvc/?username=LTCloudCoder&style=for-the-badge&color=green)
 
