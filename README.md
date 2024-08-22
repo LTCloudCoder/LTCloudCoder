@@ -2,13 +2,8 @@
 
 Hello All, This is __Lumitec Technologies GmbH__ 👋
 
-| <img src="Images/Lumitec-Logo.png" alt="Lumitec Technologies" width="48"> |
-| ----------- |
-
-<!--
 | ![image](https://github.com/user-attachments/assets/b17ee676-99b6-4550-baa6-ba73b731610e) |
 | ----------- |
--->
 
 A __Tech Services Provider__ delivering __Cloud Solutions, DevOps Practices, Container Management, Site Reliability Engineering (SRE), and Service Delivery Leadership (SDM)__.
 
